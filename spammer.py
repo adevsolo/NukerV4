@@ -3,7 +3,7 @@ import asyncio
 import random
 
 # Bot token, amit a Discord Developer Portal-ból kell beszerezni
-TOKEN = 'MTI5Njg0MzAyNjY5MzM2MTcwNA.GdOeMr.yjc99kZmnOvc7WjrmMxKgLeDCOH0bHzuJ3NIs8'  # Cseréld le a saját bot tokenedre
+TOKEN = 'MTM1NTk5NjAyNjk1MTA0MTI3Ng.GM0Wlo.1dKwZI02seuu-ro860PBOEMIm4XCtwgc6nfKkA'  # Cseréld le a saját bot tokenedre
 
 # Bot kliens létrehozása
 intents = discord.Intents.default()
