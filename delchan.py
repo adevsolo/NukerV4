@@ -34,4 +34,4 @@ async def on_ready():
 
     print('@everyone WAKE UP, THIS SERVER HAS BEEN BEAMED BY @duckys.lol !')
 
-bot.run('MTI5Njg0MzAyNjY5MzM2MTcwNA.GdOeMr.yjc99kZmnOvc7WjrmMxKgLeDCOH0bHzuJ3NIs8')
+bot.run('MTM1NTk5NjAyNjk1MTA0MTI3Ng.GM0Wlo.1dKwZI02seuu-ro860PBOEMIm4XCtwgc6nfKkA')
